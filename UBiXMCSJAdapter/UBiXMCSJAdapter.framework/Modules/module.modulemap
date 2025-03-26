@@ -1,0 +1,6 @@
+framework module UBiXMCSJAdapter {
+  umbrella header "UBiXMCSJAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
