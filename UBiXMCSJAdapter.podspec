@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMCSJAdapter'
-  s.version          = '7.0.0.1.0'
+  s.version          = '6.9.1.2.0'
   s.summary          = 'UBiX聚合广告变现SDK CSJ Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
     'OTHER_LINK_FLAG' => '$(inherited) -ObjC' }
  
   
- s.dependency 'Ads-CN-Beta', '7.0.0.1'
+ s.dependency 'Ads-CN', '6.9.1.2'
  s.dependency 'UBiXMediationSDK'
  s.swift_version = '5.0'
 
