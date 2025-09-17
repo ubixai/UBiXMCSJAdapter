@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'UBiXMCSJAdapter'
-  s.version          = '7.0.0.9.0'
+  s.version          = '7.0.0.9.1'
   s.summary          = 'UBiX聚合广告变现SDK CSJ Adapter'
   s.homepage         = 'https://www.ubixai.com/product/md'
   # s.license          = { :type => 'MIT', :file => 'LICENSE' }
