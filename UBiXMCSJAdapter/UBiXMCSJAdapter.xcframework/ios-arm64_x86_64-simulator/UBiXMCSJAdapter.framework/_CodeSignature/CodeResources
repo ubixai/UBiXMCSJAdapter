@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		C9vQurQaPqG9UxcAW4qAqu7CLzM=
+		qsaLd1Jxzh8IuI0Th1MTCIxoXwM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -25,10 +25,6 @@
 	<dict>
 		<key>Headers/UBiXMCSJAdapter-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LWyFZ8XlqPjyOntK37PLIBrLHP4=
-			</data>
 			<key>hash2</key>
 			<data>
 			opg+BmylkUG8JpUC+NsfhDk4uKAOokccGRc1pNRW8lI=
@@ -36,10 +32,6 @@
 		</dict>
 		<key>Headers/UBiXMCSJAdapter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tmyd1i7SCMGi0xLLRXNpfn5ukBk=
-			</data>
 			<key>hash2</key>
 			<data>
 			MAYzCFvfADPCebxoAr6AS3md7iHUm0KRXJxGWJAmztM=
@@ -47,10 +39,6 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			19uxBiya2EELcj5y2LD+Cs16o1g=
-			</data>
 			<key>hash2</key>
 			<data>
 			r+GstUk/nDXOVZSElL26zhFXBkt4iP+vWg2iJcbSUUk=
